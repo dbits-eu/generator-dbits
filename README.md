@@ -1,4 +1,4 @@
 generator-test
 ==============
 
-test to build a generator
+build a test generator to learn more about yeoman generators and how to modify them
